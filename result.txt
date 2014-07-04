@@ -1,0 +1,12 @@
+!.jpg
+-.jpg
+-0.jpg
+00.jpg
+0001.jpg
+001-256.jpg
+001.jpg
+001_256.jpg
+01.jpg
+SCAN_A0001A1.jpg
+SCAN_A0001C.jpg
+SCAN_A0001D1.jpg
